@@ -2,15 +2,7 @@
 
 Welcome to DevVerse! We specialize in providing top-notch web development and marketing solutions to help local business thrive in the digital world. This repository contains all the templates and resources for the DevVerse website.
 
-## Table of Contents
 
-1. [About Us](#about-us)
-2. [Services](#services)
-3. [Getting Started](#getting-started)
-4. [Repository Structure](#repository-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
 
 ## About Us
 
